@@ -1,0 +1,15 @@
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\bin\Debug\net6.0\DZ_ SEMINAR_5.exe
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\bin\Debug\net6.0\DZ_ SEMINAR_5.deps.json
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\bin\Debug\net6.0\DZ_ SEMINAR_5.runtimeconfig.json
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\bin\Debug\net6.0\DZ_ SEMINAR_5.dll
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\bin\Debug\net6.0\DZ_ SEMINAR_5.pdb
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\obj\Debug\net6.0\DZ_ SEMINAR_5.csproj.AssemblyReference.cache
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\obj\Debug\net6.0\DZ_ SEMINAR_5.GeneratedMSBuildEditorConfig.editorconfig
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\obj\Debug\net6.0\DZ_ SEMINAR_5.AssemblyInfoInputs.cache
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\obj\Debug\net6.0\DZ_ SEMINAR_5.AssemblyInfo.cs
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\obj\Debug\net6.0\DZ_ SEMINAR_5.csproj.CoreCompileInputs.cache
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\obj\Debug\net6.0\DZ_ SEMINAR_5.dll
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\obj\Debug\net6.0\refint\DZ_ SEMINAR_5.dll
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\obj\Debug\net6.0\DZ_ SEMINAR_5.pdb
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\obj\Debug\net6.0\DZ_ SEMINAR_5.genruntimeconfig.cache
+G:\________Учеба_________\С#\DZ_ SEMINAR_5\obj\Debug\net6.0\ref\DZ_ SEMINAR_5.dll
